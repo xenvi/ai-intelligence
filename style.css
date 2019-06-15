@@ -492,10 +492,10 @@ html, body {
 
 @media only screen and (min-width: 700px) {
     .left-sidebar {
-        font-size: 0.9rem;
-        margin-top: -4rem;
+        font-size: 0.8rem;
+        margin-top: -2rem;
     }
 
     .sidebar {
-        transform: scale(0.9);
+        transform: scale(0.7);
 }
