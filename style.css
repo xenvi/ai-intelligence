@@ -490,13 +490,14 @@ html, body {
 }
 }
 
-@media only screen and (min-width: 700px) {
+@media only screen and (max-width: 700px) {
     .left-sidebar {
-        font-size: 0.8rem;
+        font-size: 0.85rem;
         margin-top: -2rem;
     }
 
     .sidebar {
-        transform: scale(0.7);
-	}
+        transform: scale(0.8);
+        margin-left: -1rem;
+    }    
 }
