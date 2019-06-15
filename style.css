@@ -42,8 +42,8 @@ html, body {
     top: 50%;
     left: 50%;
     margin-left: -6.5rem;
-    width: 20rem;
-    height: 25rem;
+    width: 16rem;
+    height: 20rem;
     transform: translateY(-50%, -50%);
     animation: bob 3s ease-in-out infinite;
 }
