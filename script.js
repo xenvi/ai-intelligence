@@ -30,7 +30,7 @@ TweenMax.from(".left", 1.6, {
     ease: Expo.easeInOut
 });
 
-TweenMax.from(".border", 1.2, {
+TweenMax.from(".borderright", 1.2, {
     delay: 0.6,
     x: -20,
     opacity: 0,
@@ -65,9 +65,37 @@ TweenMax.from(".btn", 1.6, {
     ease: Expo.easeInOut
 });
 
-TweenMax.from(".left-sidebar", 1.8, {
+TweenMax.from(".viewmore", 1.8, {
     delay: 1.6,
     y: -20,
+    opacity: 0,
+    ease: Expo.easeInOut
+});
+
+TweenMax.from(".left-list li:nth-child(2)", 1.8, {
+    delay: 1.8,
+    y: -20,
+    opacity: 0,
+    ease: Expo.easeInOut
+});
+
+TweenMax.from(".left-list li:nth-child(3)", 1.8, {
+    delay: 2,
+    y: -20,
+    opacity: 0,
+    ease: Expo.easeInOut
+});
+
+TweenMax.from(".left-list li:nth-child(4)", 1.8, {
+    delay: 2.2,
+    y: -20,
+    opacity: 0,
+    ease: Expo.easeInOut
+});
+
+TweenMax.from(".borderleft", 1.2, {
+    delay: 2.4,
+    x: 20,
     opacity: 0,
     ease: Expo.easeInOut
 });
@@ -92,4 +120,3 @@ TweenMax.from(".right-icons", 2, {
     opacity: 0,
     ease: Expo.easeInOut
 })
-
