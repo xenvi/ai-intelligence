@@ -492,7 +492,7 @@ html, body {
 
 @media only screen and (max-width: 600px) {
     .left-sidebar {
-        font-size: 0.75rem;
+        font-size: 0.8rem;
         margin-top: -1.5rem;
         margin-left: -8.5rem;
         width: 19rem;
@@ -505,7 +505,7 @@ html, body {
 
     .sidebar {
         transform: scale(0.75);
-        margin-left: -0.5rem;
+        margin-left: 0rem;
         margin-top: -2rem;
     }    
 
