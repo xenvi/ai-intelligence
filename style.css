@@ -131,7 +131,7 @@ html, body {
     height: 15rem;
     font-size: 0.9rem;
     top: 35%;
-    left: 55%;
+    left: 47%;
 }
 
 .borderright {
@@ -492,18 +492,24 @@ html, body {
 
 @media only screen and (max-width: 600px) {
     .left-sidebar {
-        font-size: 0.85rem;
-        margin-top: -2rem;
+        font-size: 0.75rem;
+        margin-top: -1.5rem;
+        margin-left: -8.5rem;
+        width: 19rem;
     }
 
     .robot {
-        transform: scale(0.9);
+        transform: scale(0.8);
         margin-left: -5rem;
     }
 
     .sidebar {
-        transform: scale(0.8);
-        margin-left: -1rem;
+        transform: scale(0.75);
+        margin-left: -0.5rem;
         margin-top: -2rem;
     }    
+
+    .viewmore {
+        margin-left: -2.5rem;
+    }
 }
