@@ -492,7 +492,7 @@ html, body {
 
 @media only screen and (max-width: 600px) {
     .left-sidebar {
-        font-size: 0.8rem;
+        font-size: 0.80rem;
         margin-top: -1.5rem;
         margin-left: -8.5rem;
         width: 19rem;
@@ -500,12 +500,12 @@ html, body {
 
     .robot {
         transform: scale(0.8);
-        margin-left: -5rem;
+        margin-left: -5.5rem;
     }
 
     .sidebar {
         transform: scale(0.75);
-        margin-left: 0rem;
+        margin-left: 0.5rem;
         margin-top: -2rem;
     }    
 
