@@ -1,6 +1,7 @@
-# ai-intelligence
-product landing page --
+# AI-intelligence - Modern landing page
+A single-page UI/UX design showcasing a new Artificial Intelligence product. Features interactive on-load and hover animations to create a sleek and engaging user experience
 
-emphasis on animations --
-
-use of html, css (+animations), jquery
+TECHNOLOGIES USED:
+- HTML / CSS
+- jQuery
+- GSAP TweenMax
